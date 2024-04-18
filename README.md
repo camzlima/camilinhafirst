@@ -51,12 +51,13 @@
 </ul>
 <h2>Educação</h2>
 <ul>
-<strong>E. E. Luiz Salgado Lima</strong> - Ensino Médio
-<p>Data: 12/2021</p>
+<li>
+   <strong>E. E. Luiz Salgado Lima</strong> - Ensino Médio
+   <p>Data: 12/2021</p>
 </li>
 <li>
-<strong>UPTIME - COMUNICAÇÃO EM INGLÊS</strong> - Inglês Intermediário (Certificado)
-<p>Data: 02/2017 - 02/2018</p>
+   <strong>UPTIME - COMUNICAÇÃO EM INGLÊS</strong> - Inglês Intermediário (Certificado)
+   <p>Data: 02/2017 - 02/2018</p>
 </li>
 </ul>
 <h2>Habilidades</h2>
